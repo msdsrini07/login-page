@@ -14,7 +14,7 @@ A clean **HTML5 + CSS3 login page** with a cinematic background, centered login 
 
 <div align="center">
 
-<img src="readme-showcase.png" alt="Login Page Project Showcase" width="900">
+<img src="overall preview.png" alt="Login Page Project Showcase" width="900">
 
 </div>
 
@@ -24,7 +24,7 @@ A clean **HTML5 + CSS3 login page** with a cinematic background, centered login 
 
 <div align="center">
 
-<img src="login-page-preview.png" alt="Login Page Desktop Preview" width="900">
+<img src="output preview.png" alt="Login Page Desktop Preview" width="900">
 
 </div>
 
